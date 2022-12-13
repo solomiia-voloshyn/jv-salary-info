@@ -111,5 +111,5 @@ public class SalaryInfoTest {
                 expectedResult,
                 actualResult);
     }
-    }
+}
 
